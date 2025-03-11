@@ -1,0 +1,5 @@
+name = "Puppet"
+grammar = "puppet"
+path_suffixes = ["pp"]
+line_comments = ["# "]
+
